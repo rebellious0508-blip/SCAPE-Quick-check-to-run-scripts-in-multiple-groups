@@ -1,1 +1,0 @@
-# SCAPE-Quick-check-to-run-scripts-in-multiple-groups
